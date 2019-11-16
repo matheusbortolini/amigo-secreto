@@ -2,10 +2,9 @@ const membersJSON = require('./members.json')
 
 function run(membersJSON) {
     let matchArray = createMatchArray(membersJSON.length)
-    console.log("matchArray", matchArray)
 
     let fromToArray = createFromToArray(matchArray, membersJSON)
-    console.log("fromToArray", fromToArray)
+    console.log(fromToArray)
 }
 
 function createMatchArray(length) {
@@ -48,8 +47,6 @@ function createFromToArray(matchArray, membersJSON) {
             fromPhone: from.phone,
             toName: to.name
         }
-
-        console.log(`${fromToElement.fromName} (${fromToElement.fromPhone}) pegou ${fromToElement.toName}`)
 
         fromToArray.push(fromToElement)
     }
