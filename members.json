@@ -1,73 +1,73 @@
 [{
     "id": 0,
-    "nome": "Bibe",
-    "celular": "554191071148"
+    "name": "Bibe",
+    "phone": "554191071148"
 },{
     "id": 1,
-    "nome": "Robinson",
-    "celular": "554184037000"
+    "name": "Robinson",
+    "phone": "554184037000"
 },{
     "id": 2,
-    "nome": "Sören",
-    "celular": "554192533272"
+    "name": "Sören",
+    "phone": "554192533272"
 },{
     "id": 3,
-    "nome": "Tatheus",
-    "celular": "554196646823"
+    "name": "Tatheus",
+    "phone": "554196646823"
 },{
     "id": 4,
-    "nome": "Odite",
-    "celular": "554199858920"
+    "name": "Odite",
+    "phone": "554199858920"
 },{
     "id": 5,
-    "nome": "Jonas",
-    "celular": "554199831508"
+    "name": "Jonas",
+    "phone": "554199831508"
 },{
     "id": 6,
-    "nome": "Kuka",
-    "celular": "554197873121"
+    "name": "Kuka",
+    "phone": "554197873121"
 },{
     "id": 7,
-    "nome": "Gelson",
-    "celular": "554199730826"
+    "name": "Gelson",
+    "phone": "554199730826"
 },{
     "id": 8,
-    "nome": "Isi",
-    "celular": "554199173029"
+    "name": "Isi",
+    "phone": "554199173029"
 },{
     "id": 9,
-    "nome": "Thais",
-    "celular": "554195266600"
+    "name": "Thais",
+    "phone": "554195266600"
 },{
     "id": 10,
-    "nome": "Ana",
-    "celular": "554199696010"
+    "name": "Ana",
+    "phone": "554199696010"
 },{
     "id": 11,
-    "nome": "Lucio",
-    "celular": "554199716370"
+    "name": "Lucio",
+    "phone": "554199716370"
 },{
     "id": 12,
-    "nome": "Pedro",
-    "celular": "554196181909"
+    "name": "Pedro",
+    "phone": "554196181909"
 },{
     "id": 13,
-    "nome": "Gus",
-    "celular": "554198956010"
+    "name": "Gus",
+    "phone": "554198956010"
 },{
     "id": 14,
-    "nome": "Pita",
-    "celular": "554192284899"
+    "name": "Pita",
+    "phone": "554192284899"
 },{
     "id": 15,
-    "nome": "Plinio",
-    "celular": "554191171166"
+    "name": "Plinio",
+    "phone": "554191171166"
 },{
     "id": 16,
-    "nome": "Triz",
-    "celular": "554192284896"
+    "name": "Triz",
+    "phone": "554192284896"
 },{
     "id": 17,
-    "nome": "Maria Fernanda",
-    "celular": "554197987000"
+    "name": "Maria Fernanda",
+    "phone": "554197987000"
 }]
