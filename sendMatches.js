@@ -1,6 +1,7 @@
 const request = require('request')
 
-const matchArray = require('./matchArrayTeste.json')
+//const matchArray = require('./matchArrayTeste.json')
+const matchArray = require('./matchArrayValendo.json')
 
 async function run(matchArray) {
     await processMatchArray(matchArray)
@@ -8,12 +9,14 @@ async function run(matchArray) {
 
 async function processMatchArray(matchArray) {
     for (let match of matchArray) {
-        await processMatch(match)
+        //if (match.fromName == "Lucio") {
+            await processMatch(match)
+        //}
     }
 }
 
 async function processMatch(match) {
-    let message = `[TESTE]
+    let message = `Valendo agora!
 Olá, ${match.fromName}!
     
 Seu amigo(a) secreto(a) é *${match.toName}*`
